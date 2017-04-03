@@ -1,7 +1,8 @@
-## Phoebe 0.9.0 (2016-03-31)
+## Phoebe 0.7.3 (2017-04-03)
 
 ### Features
-* Upgrade test.
+* Upgrade Electron to v1.6.2.
+
 
 ## Phoebe 0.2.0-alpha1 (2016-08-22)
 
