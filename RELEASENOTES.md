@@ -1,3 +1,9 @@
+## Phoebe 0.8.4 (2017-04-05)
+
+### Features
+* Fixed some bugs.
+
+
 ## Phoebe 0.8.3 (2017-04-05)
 
 ### Features
