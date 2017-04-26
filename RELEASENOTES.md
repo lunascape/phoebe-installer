@@ -1,3 +1,9 @@
+## Phoebe 0.8.12 (2017-04-26)
+
+### Features
+* Fix bug of observe login form for auto fill password
+* Fix the several bugs
+
 ## Phoebe 0.8.12-beta1 (2017-04-25)
 
 ### Features
