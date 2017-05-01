@@ -1,3 +1,17 @@
+## Phoebe 0.8.13 (2017-05-01)
+
+### Improvement
+* Support Web Notification
+* Encrypt partial communications between processes
+* Added loading icon to tab
+* The button is now pressed when the bookmark bar is open
+* Support context menu with Address bar, Search bar
+* Support Importing from Internet Exploerer
+* Changed the import string from Lunascape Orion
+
+### Fixed bug
+* Fixed a bug that extra tabs might appear when opening pdf or epub
+
 ## Phoebe 0.8.13-beta1 (2017-04-28)
 
 ### Improvement
