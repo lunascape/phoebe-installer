@@ -1,3 +1,18 @@
+## Phoebe 0.9.0 (2017-05-23)
+
+### Improvement
+* Icons are now displayed in the download bar
+* Added the management screen for location notification information
+* Now be set as default browser
+* I upgraded the core framework
+* Supported tab switching by hot key
+* Added Geo Location permission management screen
+* Added search engine management screen (default setting only)
+* Added screen for managing saved passwords
+
+### Fixed bug
+* Fixed a bug that bookmark deletion can not be performed
+
 ## Phoebe 0.8.13 (2017-05-01)
 
 ### Improvement
