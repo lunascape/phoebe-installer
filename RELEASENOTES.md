@@ -1,4 +1,4 @@
-## Phoebe 0.9.0 (2017-05-23)
+## Phoebe 0.9.0-beta1 (2017-05-23)
 
 ### Improvement
 * Icons are now displayed in the download bar
