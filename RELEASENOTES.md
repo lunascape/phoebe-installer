@@ -3,8 +3,8 @@
 ### Improvement
 * Icons are now displayed in the download bar
 * Added the management screen for location notification information
-* Now be set as default browser
-* I upgraded the core framework
+* Now can be set as default browser
+* Upgraded the core framework
 * Supported tab switching by hot key
 * Added Geo Location permission management screen
 * Added search engine management screen (default setting only)
