@@ -1,3 +1,28 @@
+## Phoebe 0.10.0-beta1 (2017-06-27)
+
+### Improvement
+* Add suggestion for SearchBox
+* Support zoom
+* Support many tab menu
+* Support manu context menu on bookmark
+* Support context menu on bookmark bar
+* Improve hisotry screen UI
+* The downloaded file icon is now displayed.
+* Enable to add search engines
+* Improvement on Password Manager
+* Add close window, save as menu
+* Show selected search engine in the serch box
+* Support drag & drop change order of search engines
+* Other internal improvement
+
+### Fixed bug
+* Fixed bug in password manager
+* Fixed that the side bars overlap
+* Fixed a bug that print function did not work properly
+* Fixed the zoom bug.
+* Fixed several bugs.
+* Fixed can not use %s as the replace string for search string
+
 ## Phoebe 0.10.0-beta1 (2017-06-22)
 
 ### Improvement
