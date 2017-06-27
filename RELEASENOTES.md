@@ -1,4 +1,4 @@
-## Phoebe 0.10.0-beta1 (2017-06-27)
+## Phoebe 0.10.0-beta3 (2017-06-27)
 
 ### Improvement
 * Add suggestion for SearchBox
