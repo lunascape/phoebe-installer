@@ -1,3 +1,25 @@
+## Phoebe 0.10.0-beta5 (2017-06-28)
+
+### Improvement
+* Support zoom
+* Support many tab menu
+* Support context menu on bookmark bar
+* Support autocomplente on address bar
+* Support word suggestion on search bar
+* Improve hisotry screen UI
+* The downloaded file icon is now displayed.
+* Enable to add search engines
+* Improvement on Password Manager
+* Add close window, save as menu
+* Update chromium version to 56.0.2924.87
+* Other internal improvement
+
+### Fixed bug
+* Fixed window.open does not work correctly
+* Fixed password manager bug
+* Fixed the side bars overlap
+* Fixed print function did not work properly
+
 ## Phoebe 0.10.0-beta3 (2017-06-27)
 
 ### Improvement
