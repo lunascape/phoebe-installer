@@ -1,3 +1,5 @@
+## Phoebe 0.10.0-beta6 (2017-06-29)
+
 ## Phoebe 0.10.0-beta5 (2017-06-28)
 
 ### Improvement
