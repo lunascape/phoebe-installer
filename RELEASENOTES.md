@@ -1,5 +1,10 @@
 ## Phoebe 0.10.0-beta6 (2017-06-29)
 
+### Fixed bug
+* Fix the restore bug on default browser.
+* Fix search bar autocomplete bug.
+* Fix several bugs.
+
 ## Phoebe 0.10.0-beta5 (2017-06-28)
 
 ### Improvement
