@@ -1,3 +1,8 @@
+## Phoebe 0.10.0-beta8 (2017-06-30)
+
+### Improvement
+* Support mouse gesture
+
 ## Phoebe 0.10.0-beta6 (2017-06-29)
 
 ### Fixed bug
