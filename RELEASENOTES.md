@@ -1,3 +1,11 @@
+## Phoebe 0.10.1 (2017-07-03)
+
+### Fixed bug
+* Fix an issue mouse gesture does not work correctly
+* Fix an issue internal message sometimes loop infinity
+* Fix an issue default browser status is not displayed properly
+* Fix an issue locale does not switch after changing to another locale
+
 ## Phoebe 0.10.0 (2017-06-30)
 
 ### Improvement
