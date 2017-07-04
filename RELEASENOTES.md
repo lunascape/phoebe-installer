@@ -1,4 +1,12 @@
-## Phoebe 0.10.1 (2017-07-03)
+## Phoebe 0.10.0-beta3 (2017-07-04)
+
+### Improvement
+* Improve performance of history page
+
+### Fixed bug
+* Fixed crash on opening pdf page
+
+## Phoebe 0.10.1-beta2 (2017-07-03)
 
 ### Fixed bug
 * Fix an issue mouse gesture does not work correctly
