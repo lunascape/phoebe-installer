@@ -1,3 +1,9 @@
+## Phoebe 0.10.0-beta4 (2017-07-07)
+
+### Fixed bug
+* Fix an issue password autofill does not work correctly
+* Fix an issue search suggestion in dashboard, address bar and search bar does not work correctly
+
 ## Phoebe 0.10.0-beta3 (2017-07-04)
 
 ### Improvement
