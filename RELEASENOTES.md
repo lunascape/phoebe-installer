@@ -1,10 +1,24 @@
-## Phoebe 0.10.0-beta4 (2017-07-07)
+## Phoebe 0.10.1 (2017-07-10)
+
+### Improvement
+* Improve performance of history page
+
+### Fixed bug
+* Fix an issue mouse gesture does not work correctly
+* Fix an issue internal message sometimes loop infinity
+* Fix an issue default browser status is not displayed properly
+* Fix an issue locale does not switch after changing to another locale
+* Fixed crash bug on opening pdf page
+* Fix an issue password autofill does not work correctly
+* Fix an issue search suggestion in dashboard, address bar and search bar does not work correctly
+
+## Phoebe 0.10.1-beta4 (2017-07-07)
 
 ### Fixed bug
 * Fix an issue password autofill does not work correctly
 * Fix an issue search suggestion in dashboard, address bar and search bar does not work correctly
 
-## Phoebe 0.10.0-beta3 (2017-07-04)
+## Phoebe 0.10.1-beta3 (2017-07-04)
 
 ### Improvement
 * Improve performance of history page
