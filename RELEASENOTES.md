@@ -1,3 +1,17 @@
+## Phoebe 0.11.0-alpha3 (2017-07-18)
+
+### Improvement
+* Enable to download website's image from context menu
+* Improve performance of history page
+* Support favicons in bookmark bar
+* Support favicons in search pull down menu
+* Apply some of mouse gesture rule from Lunascape Orion such as closing tab with mouse moving down
+
+### Fixed bug
+* Fix an issue mouse gesture does not work correctly
+* Fix an issue password manager does not work correctly
+* Adjust the location from which bookmark bar pull down menu is displayed on Windows
+
 ## Phoebe 0.10.1 (2017-07-10)
 
 ### Improvement
