@@ -1,3 +1,11 @@
+## Phoebe 0.11.0-beta2 (2017-07-20)
+
+### Improvement
+* Display error message on search engine input box in setting view
+
+### Fixed bug
+* Fix an issue that freeze when clicked on search engine input box in setting view
+
 ## Phoebe 0.11.0-beta1 (2017-07-19)
 
 ### Improvement
