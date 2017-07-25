@@ -1,3 +1,8 @@
+## Phoebe 0.11.1-beta1 (2017-07-25)
+
+### Fixed bug
+* Fixed an issue that BookmarkBar icon size is sometimes incorrect
+
 ## Phoebe 0.11.0 (2017-07-21)
 
 ### Improvement
