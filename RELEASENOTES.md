@@ -1,4 +1,4 @@
-## Phoebe 0.12.0 (2017-07-31)
+## Phoebe 0.12.0-alpha1 (2017-08-03)
 
 ### Improvement
 * Add ads block
