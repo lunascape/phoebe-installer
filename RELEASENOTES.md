@@ -1,3 +1,8 @@
+## Phoebe 0.12.0-beta2 (2017-08-07)
+
+### Fixed bug
+* Fix an issue downloading does not work correctly with adblock.
+
 ## Phoebe 0.12.0-beta1 (2017-08-04)
 
 ### Improvement
