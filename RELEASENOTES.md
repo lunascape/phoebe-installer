@@ -1,3 +1,8 @@
+## Phoebe 0.13.0-alpha1 (2017-08-10)
+
+### Fixed bug
+* Fixed window.open does not work correctly.
+
 ## Phoebe 0.12.0-beta2 (2017-08-07)
 
 ### Fixed bug
