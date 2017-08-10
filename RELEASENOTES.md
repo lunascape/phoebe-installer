@@ -1,3 +1,9 @@
+## Phoebe 0.12.0-beta3 (2017-08-10)
+
+### Fixed bug
+* Fix an issue session does not work correctly
+* Fix an issue histories are not displayed correctly
+
 ## Phoebe 0.13.0-alpha1 (2017-08-10)
 
 ### Fixed bug
