@@ -1,3 +1,17 @@
+## Phoebe 0.12.0 (2017-08-17)
+
+### Improvement
+* Add ads block(beta)
+
+### Fixed bug
+* Fix an issue search bar suggestion remain displayed
+* Fix an issue various shortcut does not work correctly
+* Fix an issue some website cannot get favicon correctly
+* Fix an issue bookmark bar does not work correctly
+* Fix an issue session does not work correctly
+* Fix an issue histories are not displayed correctly
+* Fix an issue various internal bugs
+
 ## Phoebe 0.13.0-alpha2 (2017-08-10)
 
 ### Fixed bug
