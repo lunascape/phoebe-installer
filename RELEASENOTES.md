@@ -1,3 +1,10 @@
+## Phoebe 0.13.0-beta1 (2017-08-17)
+
+### Fixed bug
+* Fix an issue window.open does not work correctly
+* Fix an issue some website cannot get favicon correctly
+* Fix an issue search on address bar does not work correctly
+
 ## Phoebe 0.12.0 (2017-08-17)
 
 ### Improvement
