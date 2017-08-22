@@ -1,3 +1,12 @@
+## Phoebe 0.13.0-beta3 (2017-08-22)
+
+### Improvement
+* Apply security patches of Google Chrome
+
+### Fixed bug
+* Fix an issue click does not work in some websites
+* Fix an issue Phoebe cannot be launched
+
 ## Phoebe 0.13.0-beta1 (2017-08-17)
 
 ### Fixed bug
