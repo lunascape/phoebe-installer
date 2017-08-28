@@ -1,3 +1,10 @@
+## Phoebe 0.13.1 (2017-08-28)
+
+### Fixed bug
+* Fix an issue window.alert and window.confirm do not work correctly
+* Fix an issue download does not work correctly
+* Fix an issue all windows are closed when one window is closed
+
 ## Phoebe 0.13.0 (2017-08-23)
 
 ### Improvement
