@@ -1,4 +1,4 @@
-## Phoebe 0.14.0-beta3 (2017-09-12)
+## Phoebe 0.14.0-beta4 (2017-09-13)
 
 ### Improvement
 * Support drag and drop feature and multiple-select feature for bookmark.
