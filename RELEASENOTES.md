@@ -1,3 +1,12 @@
+## Phoebe 0.14.0 (2017-09-20)
+
+### Improvement
+* Support drag and drop feature and multiple-select feature for bookmark.
+* Upgrade the core framework
+
+### Fixed bug
+* Fix an issue password manager does not work correctly.
+
 ## Phoebe 0.14.0-beta4 (2017-09-13)
 
 ### Improvement
