@@ -1,3 +1,12 @@
+## Phoebe 0.14.1-beta4 (2017-11-08)
+
+### Improvement
+* Apply security patches of Google Chrome.
+* Add a setting for download folder.
+
+### Fixed bug
+* Fix an issue various internal bugs.
+
 ## Phoebe 0.14.1-beta4 (2017-11-07)
 
 ### Improvement
