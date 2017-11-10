@@ -1,20 +1,13 @@
 ## Phoebe 0.14.1-beta5 (2017-11-08)
 
-### Improvement
-* Apply security patches of Google Chrome.
-* Add a setting for download folder.
-
 ### Fixed bug
-* Fix an issue various internal bugs.
+* Fix crash bug on updating phoebe.
 
 ## Phoebe 0.14.1-beta4 (2017-11-07)
 
-### Improvement
-* Apply security patches of Google Chrome.
-* Add a setting for download folder.
-
 ### Fixed bug
-* Fix an issue various internal bugs.
+* Fix an issue error dialog is displayed on updating phoebe.
+* Fix an issue ctrl+H does not work.
 
 ## Phoebe 0.14.1-beta3 (2017-11-02)
 
