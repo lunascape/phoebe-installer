@@ -1,3 +1,8 @@
+## Phoebe 0.14.2-beta1 (2017-11-20)
+
+### Fixed bug
+* Fix a bug Phoebe does not launch after closing once on Mac OS.
+
 ## Phoebe 0.14.1 (2017-11-14)
 
 ### Improvement
