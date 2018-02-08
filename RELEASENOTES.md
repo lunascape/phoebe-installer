@@ -1,3 +1,6 @@
+## Phoebe 0.15.0-beta2 (2018-02-05)
+No change from the Phoebe v0.15.0-alpha1 version.
+
 ## Phoebe 0.15.0-alpha1 (2018-01-29)
 
 ### Improvement
