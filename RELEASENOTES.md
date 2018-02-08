@@ -1,3 +1,11 @@
+## Phoebe 0.15.0 (2018-02-08)
+
+### Improvement
+* Upgrade the core framework to Chrome 59
+
+### Fixed bug
+* Fix an issue that zoom-out shortcut does not work correctly
+
 ## Phoebe 0.15.0-beta2 (2018-02-05)
 No change from the Phoebe v0.15.0-alpha1 version.
 
