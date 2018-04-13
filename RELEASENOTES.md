@@ -1,3 +1,13 @@
+## Phoebe 0.16.0-beta3 (2018-04-13)
+
+### Improvement
+* Toggle user preference to ask for a download location before downloading.
+* Update core framework.
+
+### Fixed bug
+* Fix issue that document order is not correct after the change in tab orders.
+* Fix issue that can't change bookmark title when a new bookmark is created.
+
 ## Phoebe 0.15.0 (2018-02-08)
 
 ### Improvement
