@@ -1,4 +1,4 @@
-## Phoebe 0.16.0-beta3 (2018-04-13)
+## Phoebe 0.16.0-beta4 (2018-04-15)
 
 ### Improvement
 * Toggle user preference to ask for a download location before downloading.
