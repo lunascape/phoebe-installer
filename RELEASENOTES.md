@@ -1,3 +1,13 @@
+## Phoebe 0.17.0-alpha2 (2018-06-06)
+
+### Improvement
+* Update core framework.
+
+### Fixed bug
+* Fix issue that side menu buttons do not work.
+* Fix issue that import bookmarks does not work properly.
+* Fix issue that file open feature does not work.
+
 ## Phoebe 0.16.0 (2018-05-18)
 
 ### Improvement
