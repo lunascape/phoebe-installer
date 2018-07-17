@@ -1,3 +1,14 @@
+## Phoebe 0.17.0-beta1 (2018-07-17)
+
+### Improvement
+* Include first party URL API.
+
+### Fixed bug
+* Fix an issue that tabs freeze after some time.
+* Fix issue that some websites cannot be opened when ad-block is enabled.
+* Fix issue that cannot restore Phoebe from the dock after process goes to sleep.
+* Fix issue that loading icon does not stop sometimes.
+
 ## Phoebe 0.17.0-alpha2 (2018-06-06)
 
 ### Improvement
