@@ -1,3 +1,17 @@
+## Phoebe 0.17.0-rc1 (2018-08-03)
+
+### Improvement
+* Update core framework.
+* Include first party URL API.
+
+### Fixed bug
+* Fix issue that side menu buttons do not work.
+* Fix issue that import bookmarks does not work properly.
+* Fix issue that file open feature does not work.
+* Fix issue that some websites cannot be opened when ad-block is enabled.
+* Fix issue that cannot restore Phoebe from the dock after process goes to sleep.
+* Fix issue that loading icon does not stop sometimes.
+
 ## Phoebe 0.17.0-beta3 (2018-07-18)
 
 ### Improvement
