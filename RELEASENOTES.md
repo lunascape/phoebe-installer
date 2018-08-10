@@ -1,4 +1,4 @@
-## Phoebe 0.17.0-rc1 (2018-08-03)
+## Phoebe 0.17.0 (2018-08-10)
 
 ### Improvement
 * Update core framework.
