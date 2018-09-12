@@ -1,3 +1,11 @@
+## Phoebe 0.18.0-beta3 (2018-09-12)
+
+### Improvement
+* Update core framework.
+
+### Fixed bug
+* Fix issue that Phoebe cannot be launched after installation on Windows.
+
 ## Phoebe 0.18.0-beta2 (2018-08-17)
 
 ### Improvement
