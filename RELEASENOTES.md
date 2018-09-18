@@ -1,3 +1,14 @@
+## Phoebe 0.18.0 (2018-09-18)
+
+### Improvement
+* Update core framework.
+
+### Fixed bug
+* Fix issue that Phoebe cannot be launched after installation on Windows.
+
+### Important Notice
+* There is a problem that when version upgrade is done, the browser does not start up. We apologize for the inconvenience. Please download v0.18.0 from the website and use it.
+
 ## Phoebe 0.18.0-beta3 (2018-09-12)
 
 ### Improvement
