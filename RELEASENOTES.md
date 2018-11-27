@@ -1,3 +1,14 @@
+## Phoebe 0.18.1 (2018-11-27)
+
+### Improvement
+* Update core framework.
+* Improve application architecture.
+
+### Fixed bug
+* Fix issue that that application could not be launched from the dock icon on restart in macOS.
+* Fix issue that when a bookmark is edited and url input text is empty, the input text box disappears.
+* Fix issue that Phoebe is located out of bounds on the connected screen on Windows sometimes.
+
 ## Phoebe 0.18.0 (2018-09-18)
 
 ### Improvement
