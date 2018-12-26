@@ -1,4 +1,13 @@
-## Phoebe 0.18.1 (2018-11-27)
+## Phoebe 0.18.1-beta1 (2018-12-26)
+
+### Improvement
+* Improve application appearance.
+
+### Fixed bug
+* Fix issue that screen capture does not work correctly.
+* Fix issue that some websites are incorrectly blocked by ad-block.
+
+## Phoebe 0.18.1-alpha1 (2018-11-27)
 
 ### Improvement
 * Update core framework.
