@@ -1,3 +1,10 @@
+## Phoebe 0.19.0 (2019-05-17)
+
+### Improvement
+* Update core framework.
+* New implementation for window.open.
+* Migrate from Electron native PDF viewer to Mozilla PDF viewer.
+
 ## Phoebe 0.19.0-alpha1 (2019-02-18)
 
 ### Improvement
