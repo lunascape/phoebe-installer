@@ -1,3 +1,17 @@
+## Phoebe 0.20.0-alpha1 (2019-06-18)
+
+### Improvement
+* Update core framework.
+* Implement invalid protocol handling.
+* Add error page on failing to load a website.
+* Show warning favicon in error pages.
+
+### Fixed bug
+* Fix issue that input cursor is invisible after navigation in webview on some websites.
+* Fix issue that password setting display is broken.
+* Fix issue that webpages do not stop loading sometimes.
+* Fix issue that there was incorrect navigation on Windows by using 'Open in New Tab' option.
+
 ## Phoebe 0.19.0 (2019-05-17)
 
 ### Improvement
