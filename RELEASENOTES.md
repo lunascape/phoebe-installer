@@ -1,3 +1,8 @@
+## Phoebe 0.20.0-beta2 (2019-06-26)
+
+### Fixed bug
+* Fix issue that status text does not show the correct value on some websites.
+
 ## Phoebe 0.20.0-beta1 (2019-06-21)
 No change from the Phoebe v0.20.0-alpha1 version.
 
