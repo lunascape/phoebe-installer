@@ -1,10 +1,11 @@
-## Phoebe 0.21.0-alpha1 (2019-07-18)
+## Phoebe 0.21.0-alpha2 (2019-07-29)
 
 ### Improvement
 * Update core framework.
 
 ### Fixed bug
 * Fix issue that the full screen mode doesn't work properly.
+* Fix issue that the full screen video mode did not work properly with multiple tabs.
 * Fix issue that the confirm and alert dialog boxes do not work properly.
 
 ## Phoebe 0.20.0 (2019-06-28)
