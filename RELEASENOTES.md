@@ -1,3 +1,9 @@
+## Phoebe 0.21.0-beta3 (2019-08-23)
+
+### Fixed bug
+* Fix issue that ePub file cannot be loaded after browsing to another tab.
+* Fix issue that Phoebe crashes on printing a PDF file.
+
 ## Phoebe 0.21.0-beta1 (2019-08-08)
 No change from the Phoebe v0.21.0-alpha2 version.
 
