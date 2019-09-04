@@ -1,3 +1,12 @@
+## Phoebe 0.21.0 (2019-09-04)
+
+### Fixed bug
+* Fix issue that ePub file cannot be loaded after browsing to another tab.
+* Fix issue that Phoebe crashes on printing a PDF file.
+* Fix issue that the full screen mode doesn't work properly.
+* Fix issue that the full screen video mode did not work properly with multiple tabs.
+* Fix issue that the confirm and alert dialog boxes do not work properly.
+
 ## Phoebe 0.21.0-beta3 (2019-08-23)
 
 ### Fixed bug
