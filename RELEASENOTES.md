@@ -1,3 +1,13 @@
+## Phoebe 0.22.0-alpha2 (2019-10-01)
+
+### Improvement
+* Update core framework.
+* Update Ad-block module.
+
+### Fixed bug
+* Fix issue that bookmark folders do not open from taskbar after sometime.
+* Fix issue that window.open does not work correctly.
+
 ## Phoebe 0.21.0 (2019-09-04)
 
 ### Fixed bug
