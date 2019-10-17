@@ -1,3 +1,8 @@
+## Phoebe 0.22.0-beta1 (2019-10-17)
+
+### Improvement
+* Update core framework.
+
 ## Phoebe 0.22.0-alpha2 (2019-10-01)
 
 ### Improvement
