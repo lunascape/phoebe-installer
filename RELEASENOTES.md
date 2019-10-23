@@ -1,3 +1,8 @@
+## Phoebe 0.22.0-beta2 (2019-10-23)
+
+### Fixed bug
+* Fix issue that full screen mode icon is incorrect on Windows.
+
 ## Phoebe 0.22.0-beta1 (2019-10-17)
 
 ### Improvement
