@@ -1,3 +1,14 @@
+## Phoebe 0.22.0 (2019-11-08)
+
+### Improvement
+* Update core framework.
+* Update Ad-block module.
+
+### Fixed bug
+* Fix issue that bookmark folders do not open from taskbar after sometime.
+* Fix issue that window.open does not work correctly.
+* Fix issue that full screen mode icon is incorrect on Windows.
+
 ## Phoebe 0.22.0-beta2 (2019-10-23)
 
 ### Fixed bug
