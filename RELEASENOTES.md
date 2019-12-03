@@ -4,7 +4,7 @@
 * Update core framework.
 
 ### Fixed bug
-* Fixed issue - History days value in form in settings.
+* Fixed issue - Set correct range for history days value in form in settings.
 * Fixed issue - Properly decoding japanese urls.
 
 ### Improvement
