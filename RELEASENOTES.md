@@ -1,4 +1,4 @@
-## Phoebe 0.23.0-alphaversion (2019-12-05)
+## Phoebe 0.23.0-alpha3 (2019-12-05)
 
 ### Improvement
 * Update core framework.
