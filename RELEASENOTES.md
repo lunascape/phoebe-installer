@@ -1,3 +1,12 @@
+## Phoebe 0.23.1 (2020-03-24)
+
+### Improvement
+* Update core framework.
+
+### Fixed bug
+* Fixed issue - Google docs now support copy paste
+
+
 ## Phoebe 0.23.0-alpha3 (2019-12-05)
 
 ### Improvement
