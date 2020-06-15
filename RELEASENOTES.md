@@ -1,3 +1,11 @@
+## Phoebe 0.24.0 (2020-06-15)
+
+### Improvement
+* Update core framework.
+
+### Fixed bug
+* Fixed issue - Update bookmark title on import
+
 ## Phoebe 0.23.1 (2020-03-24)
 
 ### Improvement
