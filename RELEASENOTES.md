@@ -1,3 +1,15 @@
+## Phoebe 0.26.0-alpha1 (2023-06-10 )
+### Fixed 
+* Can not use bookmarks on Bookmark bar
+* Fixed a bug that prevented the window from starting if the window save state failed to be read
+
+## Phoebe 0.25.0 (2023-06-10 )
+### Improvement
+* The core framework is upgraded in the v0.25.0 series
+
+## Phoebe 0.24.0 (2020-09-01 )
+### Improvement
+* The core framework is upgraded in the v0.24.0 series
 ## Phoebe 0.23.2 (2020-08-11)
 
 ### Improvement
