@@ -1,3 +1,18 @@
+## Phoebe 0.27.0 (2023-6-20)
+* Fix can not open pdf file
+* Fix can not re-open window from dock on macOS
+* Rollback framework version
+
+## Phoebe 0.26.0 (2023-6-13)
+* Fix some bugs
+* Update base framework version
+
+## Phoebe 0.26.0-alpha1 (2023-06-10 )
+### Fixed 
+* Can not use bookmarks on Bookmark bar
+* Fixed a bug that prevented the window from starting if the window save state failed to be read
+
+
 ## Phoebe 0.26.0-alpha1 (2023-06-10 )
 ### Fixed 
 * Can not use bookmarks on Bookmark bar
