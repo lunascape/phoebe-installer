@@ -1,3 +1,7 @@
+## Phoebe 0.28.0-alpha3 (2023-11-21)
+* Update framework version
+* Fix many bugs
+
 ## Phoebe 0.27.0 (2023-6-20)
 * Fix can not open pdf file
 * Fix can not re-open window from dock on macOS
