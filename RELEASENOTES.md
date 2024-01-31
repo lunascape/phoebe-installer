@@ -1,3 +1,8 @@
+## Phoebe 0.28.0-beta1 (2024-01-31)
+* Update framework version
+* Fix many bugs
+* Support screen sharing
+
 ## Phoebe 0.28.0-alpha3 (2023-11-21)
 * Update framework version
 * Fix many bugs
