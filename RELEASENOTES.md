@@ -1,3 +1,35 @@
+## Phoebe 1.0.1-beta.3 (2026-07-13)
+### Fixed
+* Freeze caused by an extension background worker crash-restart loop (the guard shipped in beta.2 did not engage)
+* Startup error dialog ("A JavaScript error occurred in the main process")
+
+## Phoebe 1.0.1-beta.2 (2026-07-13)
+### Fixed
+* Freeze caused by an extension background worker crash-restart loop
+* Password manager prompting for Touch ID while simply browsing
+
+## Phoebe 1.0.1-beta.1 (2026-07-03)
+### New
+* Built-in password manager with an encrypted vault, biometric unlock, and autofill
+* Browser extension support: install and manage extensions (experimental)
+* AI Sidebar: chat with an AI assistant about the current page (experimental)
+* Import your bookmarks, passwords, and cookies from another browser on first run
+* Site data manager to view and clear cookies and local storage per site
+* Search engine categories and a quick app launcher
+* Profile switcher button in the toolbar
+### Fixed
+* Download list failing when a file icon is unavailable
+* Dragging a tab out into a new window on macOS
+### Improved
+* Animated tab open and close in the tab bar
+* Drop a tab onto the bookmark bar to bookmark it
+* Windows keyboard shortcuts and a bookmark-bar toggle in the menu
+* Stronger safeguards for how extensions access your bookmarks and browsing data
+
+## Phoebe 1.0.1-alpha.1 (2026-06-19)
+### Fixed
+* Update detection failing between prerelease builds
+
 ## Phoebe 0.28.0-beta1 (2024-01-31)
 * Update framework version
 * Fix many bugs
