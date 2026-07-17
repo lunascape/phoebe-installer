@@ -1,3 +1,13 @@
+## Phoebe 1.0.1-beta.10 (2026-07-17)
+### Fixed
+* Google Meet / screen sharing: the share picker now shows a distinct thumbnail for every window (previously all thumbnails showed the same window)
+* Google Meet / screen sharing: closing the picker without selecting no longer leaves the page's share request hanging
+* macOS: the toolbar and tab bar now come back after exiting fullscreen with the green (native) button
+* Crash when page events raced a closing tab (systematic guard across all tab event handlers)
+### Changed
+* Runtime switched to castLabs Electron 42.5.2 (fixes the screen-share capture failure seen on official Electron builds)
+* New experimental flag "macOS native screen-share picker" (default OFF — the in-app picker is used everywhere)
+
 ## Phoebe 1.0.1-beta.3 (2026-07-13)
 ### Fixed
 * Freeze caused by an extension background worker crash-restart loop (the guard shipped in beta.2 did not engage)
