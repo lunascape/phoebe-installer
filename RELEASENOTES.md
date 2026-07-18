@@ -1,3 +1,9 @@
+## Phoebe 1.0.1-beta.11 (2026-07-18)
+### Fixed
+* Browser no longer freezes when a third-party extension's background worker crash-loops (experimental Chrome extension support): restarts are rate-limited process-wide, crash-looping extensions back off, and persistent crashers are quarantined for the session (files/settings preserved)
+### Changed
+* Privacy-safe GA4 engagement analytics (no URLs or page content; packaged builds only)
+
 ## Phoebe 1.0.1-beta.10 (2026-07-17)
 ### Fixed
 * Google Meet / screen sharing: the share picker now shows a distinct thumbnail for every window (previously all thumbnails showed the same window)
