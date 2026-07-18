@@ -1,3 +1,7 @@
+## Phoebe 1.0.1-beta.12 (2026-07-18)
+### Fixed
+* dApp wallet connections no longer hang (e.g. app.japanopenchain.org stuck loading forever): message ports from extension content scripts — including the wallet's in-page provider bridge — now reach the extension's background worker instead of dying with "Receiving end does not exist"
+
 ## Phoebe 1.0.1-beta.11 (2026-07-18)
 ### Fixed
 * Browser no longer freezes when a third-party extension's background worker crash-loops (experimental Chrome extension support): restarts are rate-limited process-wide, crash-looping extensions back off, and persistent crashers are quarantined for the session (files/settings preserved)
