@@ -1,3 +1,9 @@
+## Phoebe 1.0.1-beta.13 (2026-07-19)
+### Fixed
+* dApp wallet requests no longer hang after closing the wallet sidebar: the wallet's background worker is now told the panel disconnected, and approval requests (connect / sign) reopen the wallet UI automatically
+### Changed
+* Extension port lifecycle hardened (no ghost-port resurrection); internal API bridge is promise-only with Chrome-conformant lastError callback semantics
+
 ## Phoebe 1.0.1-beta.12 (2026-07-18)
 ### Fixed
 * dApp wallet connections no longer hang (e.g. app.japanopenchain.org stuck loading forever): message ports from extension content scripts — including the wallet's in-page provider bridge — now reach the extension's background worker instead of dying with "Receiving end does not exist"
